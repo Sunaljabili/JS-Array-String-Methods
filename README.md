@@ -24,7 +24,9 @@ Hazir join methodundan istifade elemek olmaz :D
 let arr = ["Banana","Kiwi","Mango"] => sizin function(gonderdiyiniz stringe gore  stringleri ayirir) ("Banana","Kiwi","Mango");
 
 Task 3.
-Dersde yazdigimiz Array ve String Methodlarini yazib bir-bir yoxlamaq.
+Dersde yazdigimiz Array ve String Methodlarini yazib bir-bir yoxlamaq!!!
+
 Kecen dersden borcu olanlar shexslere aiddi, dersde yazdigimiz function(homeworkunu) yazmaq.
+Elave repo yaradib o tasklarida gondermek mutleqdir!!!
 
 
